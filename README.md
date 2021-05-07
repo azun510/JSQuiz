@@ -8,3 +8,11 @@ This app will run in the browser, and will feature dynamically updated HTML and 
 
 ### Link
 
+https://azun510.github.io/JSQuiz/
+
+## Previews
+![Screenshot](./assets/QuizScreenshot.png)
+
+![Screenshot](./assets/Results.png)
+
+![Screenshot](./assets/leaderboard.png)
